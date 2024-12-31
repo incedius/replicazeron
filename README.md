@@ -1,8 +1,9 @@
-# Replicazeron FreeCAD - Incedius mods
+# Replicazeron - Incedius mods
 
 * OLED tower mount - mounted to the side of the index finger tower
 * Tilt Stand - modified from Azeron stand
-* ~~Brain Box~~ Umbilical Plug Box - messy and excessive wires require dumb solution. 
+* ~~Brain Box~~ Umbilical Plug Box - messy and excessive wires require dumb solution.
+* Palm rest with agressive scoop for my hand to rest on when oh the tilt stand
 
 ![replicazeron](images/inc-01.jpg "replicazeron")
 ![replicazeron](images/inc-02.jpg "agressive swoop to cup my hand and prevent it from sliding off")
