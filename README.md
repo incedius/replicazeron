@@ -4,9 +4,9 @@
 * Tilt Stand - modified from Azeron stand
 * ~~Brain Box~~ Umbilical Plug Box - messy and excessive wires require dumb solution. 
 
-![replicazeron](images/inc-01.JPG "replicazeron")
-![replicazeron](images/inc-02.JPG "agressive swoop to cup my hand and prevent it from sliding off")
-![nerv stand](images/inc-03.JPG "NERV stand")
+![replicazeron](images/inc-01.jpg "replicazeron")
+![replicazeron](images/inc-02.jpg "agressive swoop to cup my hand and prevent it from sliding off")
+![nerv stand](images/inc-03.jpg "NERV stand")
 
 # Replicazeron FreeCAD
 
