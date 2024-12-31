@@ -1,1 +1,39 @@
 *.FCStd1
+arduino-ide_2.3.4_Windows_64bit.exe
+Arduino_STM32-master.zip
+Arduino_STM32-master/*
+Azeron keypad adjustable stand - 6028517.zip
+Azeron keypad adjustable stand/*
+Azeron keypad tower elevator*
+Azeron Tilt (Left) Mod v6.step
+AzeronCyborg.zip
+AzeronCyborg/*
+custom/*
+en.st-stm32cubeide_1.17.0_23558_20241125_2245_x86_64.exe.zip
+en.stm32cubeprg-win64-v2-18-0.zip
+en.stsw-link009.zip
+en.stsw-link009/*
+fp-info-cache
+/keilCh32
+/replicazeron-backups
+Kicad-STM32-master.zip
+mdk_541.exe
+qmkFirmware/
+/replicazeron-cyborg
+replicazeron-cyborg20241027-1-i16u4a.zip
+/replicazeron-inc
+replicazeron.kicad_prl
+replicazeron.kicad_pro
+replicazeron.kicad_sch
+/Rip
+S6c65f01a954243958358e2579d73dad3m.avif
+S8f61347f1d7240d4927607e7a55aff7d5.avif
+/stlink-1.8.0-win32
+STM32 ST-LINK Utility v4.6.0/setup.exe
+Tilt Support.3mf
+Tilt Support.stl
+untitled.kicad_sch
+zadig-2.9.exe
+replicazeron.json
+replicazeron.vil
+replicazeron_sch.pdf

@@ -1,3 +1,13 @@
+# Replicazeron FreeCAD - Incedius mods
+
+* OLED tower mount - mounted to the side of the index finger tower
+* Tilt Stand - modified from Azeron stand
+* ~~Brain Box~~ Umbilical Plug Box - messy and excessive wires require dumb solution. 
+
+![replicazeron](images/inc-01.JPG "replicazeron")
+![replicazeron](images/inc-02.JPG "agressive swoop to cup my hand and prevent it from sliding off")
+![nerv stand](images/inc-03.JPG "NERV stand")
+
 # Replicazeron FreeCAD
 
 modified parts for QMK powered replicazeron build with STM32F103
